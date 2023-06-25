@@ -15,7 +15,7 @@ export const PLACES: IPin[] = [
     author: ['João Castro', 'Pedro Brandão', 'Diogo Pacheco'],
     username: ['castro_gmr', 'focus.jiujitsubraga', 'el_pach89'],
     type: EPinType.Merch,
-    city: 'Lisboa Open 2022',
+    city: 'FPJJB Open 2022, Lisboa',
     country: 'Portugal',
     coordinates: [38.742848143417774, -9.128892489772834],
     date: '2022-12-18',
@@ -32,8 +32,8 @@ export const PLACES: IPin[] = [
     photo: '/photos/guimaraes.png'
   },
   {
-    author: ['Filipe Felício','João Castro', 'Pedro Brandão'],
-    username: ['felicio.filipe','castro_gmr', 'focus.jiujitsubraga'],
+    author: ['Filipe Felício', 'João Castro', 'Pedro Brandão'],
+    username: ['felicio.filipe', 'castro_gmr', 'focus.jiujitsubraga'],
     type: EPinType.Merch,
     city: 'Ponte de Lima',
     country: 'Portugal',
@@ -50,5 +50,15 @@ export const PLACES: IPin[] = [
     coordinates: [38.73934071555419, -9.130128685492226],
     date: '2023-04-20',
     photo: '/photos/gracie_lisboa.png'
+  },
+  {
+    author: ['Diogo Pacheco', 'Inês Presa', 'João Castro', 'Pedro Brandão','Filipe Felício', 'Daniel Pereira'],
+    username: ['el_pach89', '','castro_gmr', 'castro_gmr', 'felicio.filipe', ''],
+    type: EPinType.Merch,
+    city: 'FPJJB Grand Slam 2023, Porto',
+    country: 'Portugal',
+    coordinates: [41.190455237638524, -8.585193144329985],
+    date: '2023-06-17',
+    photo: '/photos/grand_slam_porto_2023.png'
   },
 ];
