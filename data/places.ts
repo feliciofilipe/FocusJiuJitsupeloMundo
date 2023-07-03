@@ -53,12 +53,22 @@ export const PLACES: IPin[] = [
   },
   {
     author: ['Diogo Pacheco', 'Inês Presa', 'João Castro', 'Pedro Brandão','Filipe Felício', 'Daniel Pereira'],
-    username: ['el_pach89', '','castro_gmr', 'castro_gmr', 'felicio.filipe', ''],
+    username: ['el_pach89', '','castro_gmr', 'focus.jiujitsubraga', 'felicio.filipe', ''],
     type: EPinType.Merch,
     city: 'FPJJB Grand Slam 2023, Porto',
     country: 'Portugal',
     coordinates: [41.190455237638524, -8.585193144329985],
     date: '2023-06-17',
     photo: '/photos/grand_slam_porto_2023.png'
+  },
+  {
+    author: ['Inês Presa', 'Pedro Brandão','Filipe Felício', 'Daniel Du'],
+    username: ['', 'focus.jiujitsubraga', 'felicio.filipe', ''],
+    type: EPinType.Merch,
+    city: 'Treinão de Junho, Famalicão',
+    country: 'Portugal',
+    coordinates: [41.39109313598422, -8.514533281810731],
+    date: '2023-06-24',
+    photo: '/photos/treinao_junho_2023.png'
   },
 ];
