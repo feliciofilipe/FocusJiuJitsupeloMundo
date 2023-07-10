@@ -53,12 +53,22 @@ export const PLACES: IPin[] = [
   },
   {
     author: ['Diogo Pacheco', 'Inês Presa', 'João Castro', 'Pedro Brandão','Filipe Felício', 'Daniel Pereira'],
-    username: ['el_pach89', '','castro_gmr', 'castro_gmr', 'felicio.filipe', ''],
+    username: ['el_pach89', '','castro_gmr', '', 'felicio.filipe', ''],
     type: EPinType.Merch,
     city: 'FPJJB Grand Slam 2023, Porto',
     country: 'Portugal',
     coordinates: [41.190455237638524, -8.585193144329985],
     date: '2023-06-17',
     photo: '/photos/grand_slam_porto_2023.png'
+  },
+  {
+    author: ['Diogo Pacheco', 'Filipe Felício', 'Inês Presa', 'João Castro', 'Pedro Brandão',, 'Daniel Pereira', 'Luís Braga', 'Daniel Du'],
+    username: ['el_pach89', 'felicio.filipe', '','castro_gmr', '', '', '', ''],
+    type: EPinType.Merch,
+    city: 'AJP Tour Vila Real 2023',
+    country: 'Portugal',
+    coordinates: [41.30047278209425, -7.74973994437993],
+    date: '2023-07-08',
+    photo: '/photos/ajp_vila_real_2023.png'
   },
 ];
