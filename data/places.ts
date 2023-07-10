@@ -71,4 +71,14 @@ export const PLACES: IPin[] = [
     date: '2023-06-24',
     photo: '/photos/treinao_junho_2023.png'
   },
+  {
+    author: ['Diogo Pacheco', 'Filipe Felício', 'Inês Presa', 'João Castro', 'Pedro Brandão', 'Daniel Pereira', 'Luís Braga', 'Daniel Du'],
+    username: ['el_pach89', 'felicio.filipe', '','castro_gmr', '', '', '', ''],
+    type: EPinType.Merch,
+    city: 'AJP Tour Vila Real 2023',
+    country: 'Portugal',
+    coordinates: [41.30047278209425, -7.74973994437993],
+    date: '2023-07-08',
+    photo: '/photos/ajp_vila_real_2023.png'
+  },
 ];
