@@ -62,6 +62,16 @@ export const PLACES: IPin[] = [
     photo: '/photos/grand_slam_porto_2023.png'
   },
   {
+    author: ['Inês Presa', 'Pedro Brandão','Filipe Felício', 'Daniel Du'],
+    username: ['', 'focus.jiujitsubraga', 'felicio.filipe', ''],
+    type: EPinType.Merch,
+    city: 'Treinão de Junho, Famalicão',
+    country: 'Portugal',
+    coordinates: [41.39109313598422, -8.514533281810731],
+    date: '2023-06-24',
+    photo: '/photos/treinao_junho_2023.png'
+  },
+  {
     author: ['Diogo Pacheco', 'Filipe Felício', 'Inês Presa', 'João Castro', 'Pedro Brandão', 'Daniel Pereira', 'Luís Braga', 'Daniel Du'],
     username: ['el_pach89', 'felicio.filipe', '','castro_gmr', '', '', '', ''],
     type: EPinType.Merch,
